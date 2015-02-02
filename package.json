@@ -13,5 +13,6 @@
     "simpsons"
   ],
   "author": "Chip Bell",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "github.com:chipbell4/simpsons-rule.git"
 }
